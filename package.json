@@ -2,7 +2,7 @@
   "name": "04-store.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amirbaurzhanov.github.io/store.com/",
+  "homepage": "https://amirbaurzhanov.github.io/04-fake-store.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
